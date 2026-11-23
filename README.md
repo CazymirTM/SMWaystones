@@ -22,6 +22,12 @@ one somewhere else, and travel between them.
   aren't loaded.
 - **Saved in the world**, names included.
 
+## Where to next?
+
+![Four vintage travel posters for waystones: Home Base, Broken Scrapyard, Copper Junction and Golden Junction](docs/posters.jpg)
+
+*Name your waystones and make your own destinations.*
+
 ## Install
 
 1. Install [SMLoader](https://github.com/CazymirTM/SMLoader/releases) 1.1.0 or
@@ -56,7 +62,7 @@ SMWaystones is **closed-source freeware**: free to use, but no re-uploads,
 modified versions or reverse engineering. See [LICENSE](LICENSE). Please share
 the link to this page instead of the zip.
 
-Made with the help of AI (Claude Code for the code, ComfyUI for the banner and
-icon).
+Made with the help of AI (Claude Code for the code, ComfyUI for the banner,
+posters and icon).
 
 *Not affiliated with or endorsed by Axolot Games.*
