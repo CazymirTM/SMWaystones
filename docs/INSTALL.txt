@@ -1,0 +1,42 @@
+SMWaystones - craftable teleport waystones for Scrap Mechanic Survival
+======================================================================
+
+Made for Scrap Mechanic 1.0.7a (Steam, Windows 64-bit).
+
+REQUIRES SMLoader 1.1.0 or newer: https://github.com/CazymirTM/SMLoader
+CO-OP: EVERY player in the world needs SMLoader + SMWaystones.
+       (Co-op has not been tested yet.)
+
+INSTALL
+-------
+1. Install SMLoader first (see its README).
+2. Open your game folder:
+   Steam -> right-click Scrap Mechanic -> Manage -> Browse local files.
+3. Copy the  SMLoader  folder from this zip into the game folder and allow it
+   to merge with the existing SMLoader folder. It adds:
+     SMLoader\mods\SMWaystones.dll
+4. Load a Survival world and craft a Waystone in any Craftbot.
+
+USE
+---
+- Craft: 10 Metal Block 1 + 1 Circuit Board (unlocked from the start).
+- Place two or more waystones. Press E on one to rename it or to travel.
+
+GOOD TO KNOW
+------------
+- Steam achievements don't unlock while the mod is installed (the game turns
+  them off when its data files are changed, and a new part changes them).
+- Back up your world before trying any mod.
+
+UNINSTALL
+---------
+Delete  SMLoader\mods\SMWaystones.dll  and the  SMLoader\SMWaystones  folder.
+Waystones in your worlds become checkered "missing part" cubes and come back,
+with their names, if you reinstall.
+
+LICENCE
+-------
+SMWaystones is closed-source freeware (c) 2026 CeZeY22: free to use, but no
+re-uploads, modified versions or reverse engineering. See LICENSE.
+
+Not affiliated with or endorsed by Axolot Games.
