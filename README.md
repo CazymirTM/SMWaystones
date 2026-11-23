@@ -42,8 +42,9 @@ one somewhere else, and travel between them.
 
 ## Good to know
 
-- **Steam achievements don't unlock while the mod is installed.** The game
-  turns them off when its data files are changed, and a new part changes them.
+- **Steam achievements** keep working with SMLoader 1.3.0 or newer. With an
+  older SMLoader the game stops counting them while the mod is installed,
+  because a new part changes its data files.
 - **Co-op hasn't been tested yet.** Reports are welcome.
 - The mod doesn't change any game files: the merged data is kept in
   `SMLoader\SMWaystones\content\` and rebuilt on every start.

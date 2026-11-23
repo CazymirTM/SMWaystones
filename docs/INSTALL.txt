@@ -24,8 +24,8 @@ USE
 
 GOOD TO KNOW
 ------------
-- Steam achievements don't unlock while the mod is installed (the game turns
-  them off when its data files are changed, and a new part changes them).
+- Steam achievements keep working with SMLoader 1.3.0 or newer. With an older
+  SMLoader the game stops counting them while the mod is installed.
 - Back up your world before trying any mod.
 
 UNINSTALL
